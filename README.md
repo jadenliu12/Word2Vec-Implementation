@@ -1,4 +1,4 @@
-# Word2Vec-Implementation
+# Word2Vec Implementation
 
 The goal of this notebook is to implement a Word2Vec model by using keras.Model subclassing method.
 
